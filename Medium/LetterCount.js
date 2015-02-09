@@ -1,4 +1,4 @@
-function LetterCountI(str){
+function LetterCount(str){
 
   str = str.split(" ");
   
