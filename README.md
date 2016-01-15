@@ -1,4 +1,3 @@
-# Coderbyte-Solutions
+# Common-Algorithms
 
-Solutions to coderbyte problems written in JS
-
+Solutions to common algorithms ordered by difficulty
